@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\excalibur\Desktop\C#\CALISMA\Rezervasyon\Rezervasyon\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Calisanlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Istatistikler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Misafirler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Odalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KayitEkleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YoneticiEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

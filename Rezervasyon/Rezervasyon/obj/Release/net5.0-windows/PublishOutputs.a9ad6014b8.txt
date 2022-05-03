@@ -1,0 +1,11 @@
+C:\Users\excalibur\Desktop\C#\Rezervasyon.exe
+C:\Users\excalibur\Desktop\C#\Rezervasyon.dll
+C:\Users\excalibur\Desktop\C#\Rezervasyon.deps.json
+C:\Users\excalibur\Desktop\C#\Rezervasyon.runtimeconfig.json
+C:\Users\excalibur\Desktop\C#\Rezervasyon.pdb
+C:\Users\excalibur\Desktop\C#\System.Data.SqlClient.dll
+C:\Users\excalibur\Desktop\C#\runtimes\win-arm64\native\sni.dll
+C:\Users\excalibur\Desktop\C#\runtimes\win-x64\native\sni.dll
+C:\Users\excalibur\Desktop\C#\runtimes\win-x86\native\sni.dll
+C:\Users\excalibur\Desktop\C#\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\excalibur\Desktop\C#\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
